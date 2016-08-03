@@ -1,0 +1,154 @@
+#logo{
+	width: 150px;
+	height: 150px;
+	margin-left: 100px;
+}
+nav{
+    height: auto; 
+    margin: 0 auto; /* Centro el contenedor */
+    overflow: hidden;
+  }
+ul{
+	float: left;
+    list-style-type: none; 
+    position: relative;
+    left: 50%;
+    padding:1px;
+    font-family: OpenSans-Light;
+        }
+li{
+    float: left;
+    position: relative; 
+    right: 50%;
+    margin-top: 50px;
+    margin-right: 90px;
+    color: gray;
+    }
+ li a{
+    padding: 10px; 
+     }
+.semilla{
+   width: 102%;
+}
+.parrafo{
+	background: #D8D8D8;
+	text-align: center;
+    font-family: OpenSans-Light;
+}
+#logo1{
+    margin-left: 100px;
+}
+#logo2{
+    margin-left: 200px; 
+}
+h2{
+    margin-left: 150px;
+    font-family: OpenSans-Light;
+}
+.titulo-vision{
+    font-family: OpenSans-Light;
+    margin-left: 250px;
+}
+.mision{
+    text-align: center;
+    font-family: OpenSans-Light;
+}
+.vision{
+    font-family: OpenSans-Light;
+    margin-left: 100px;
+    text-align: center;
+}
+#foto1{
+    width: 105.1%;
+}
+.fondo-verde{
+    background: #04B431;
+}
+.metodologia{
+    margin-left: 40%;
+    margin-top: 8%;
+}
+.titulo-metodologia{
+    margin-left: 35%;
+    color: white;
+    margin-top: 5%;
+    font-family:OpenSans-Light;
+}
+.parrafo-metodologia{
+    text-align: center;
+    color: white;
+    margin-top: 7%;
+    font-family: OpenSans-Light;
+}
+h3{
+    font-family: OpenSans-Light;
+    text-align: center;
+}
+.parrafo-servicios{
+    text-align: center;
+    font-family: OpenSans-Light;
+}
+.educacion-icono{
+    margin-right: 10%;
+}
+.bienestar-icono, .bienestar,.parrafo-bien{
+    margin-left: 50%;
+    text-align: justify;
+    font-family: OpenSans-Regular;
+}
+.mitigacion-icono, .mitigacion, .parrafo-miti{
+    margin-left: 45%;
+    text-align: justify;
+    font-family: OpenSans-Regular;
+}
+.agua-icono, .manejo, .parrafo-agua {
+    margin-left: 45%;
+    text-align: justify;
+    font-family: OpenSans-Regular;
+}
+.agricultura-icono, .agri, .parrafo-agri{
+    margin-left: 50%;
+    text-align: justify;
+    font-family: OpenSans-Regular;
+}
+.educacion-icono, .educacion, .parrafo-edu{
+    margin-left: 35%;
+    text-align: justify;
+    font-family: OpenSans-Regular;
+}
+.seguridad-icono, .segu, .parrafo-seguri{
+    margin-left: 35%;
+    text-align: justify;
+    font-family: OpenSans-Regular;
+}
+.fondo-proyectos{
+    background: #4B8A08;
+}
+.proyectos{
+    margin-right:20%;
+    margin-top: 5%;
+    font-family: OpenSans-Regular;
+    color: white;
+}
+.foto-p1, .foto-p2{
+    width: 90%;
+    margin-left: 10%;
+    margin-top: 10%;
+}
+.proyecto1, .proyecto2{
+    text-align: justify;
+    font-family: OpenSans-Bold;
+    color: white;
+    margin-left: 40%;
+    margin-top: 30%;
+}
+.proyecto1-1, .proyecto2-1{
+    margin-left: 45%;
+    font-family: OpenSans-Light;
+    color: white;
+}
+.proyecto1-2, .proyecto2-2{
+    font-family: OpenSans-Regular;
+    color: white;
+    text-align: justify;
+}
